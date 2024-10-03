@@ -1,0 +1,44 @@
+{
+  "routes": [
+    {
+      "id": "5ad5",
+      "name": "Route One"
+    },
+    {
+      "id": "8f76",
+      "name": "route 2"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "aab5",
+      "routeId": "5ad5",
+      "lat": "-6.5608",
+      "lng": "30.5875"
+    },
+    {
+      "id": "37dc",
+      "routeId": "5ad5",
+      "lat": "-7.6255",
+      "lng": "32.5337"
+    },
+    {
+      "id": "b453",
+      "routeId": "8f76",
+      "lat": 0,
+      "lng": 0
+    },
+    {
+      "id": "5377",
+      "routeId": "5ad5",
+      "lat": "-5.7",
+      "lng": "45"
+    },
+    {
+      "id": "ec56",
+      "routeId": "5ad5",
+      "lat": 40,
+      "lng": 40
+    }
+  ]
+}
